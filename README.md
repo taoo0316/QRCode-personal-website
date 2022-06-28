@@ -1,1 +1,1 @@
-# QRcode-personal-website
+# QRCode-personal-website
